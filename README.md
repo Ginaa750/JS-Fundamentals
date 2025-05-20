@@ -1,1 +1,1 @@
-“JavaScript is amazing”
+“JavaScript is amazing” 
